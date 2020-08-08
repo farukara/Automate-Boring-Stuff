@@ -1,13 +1,11 @@
 # Autmate Boring Stuff with PYTHON
- Project problems from "Automate Boring Stuff with Python Ed2" book.
+ My solutions to project problems from "Automate Boring Stuff with Python Ed2" book.
   
-  My project solutions for automate the boring stuff with python by Al Sweigart
-
-Chapter 2 - Flow Control
-Rock Paper Scissors Game
-Chapter 3 - Functions
+- Chapter 2 - Flow Control
+  - Rock Paper Scissors Game
+- Chapter 3 - Functions
 The Collatz Sequence
-Chapter 4 - Lists
+- Chapter 4 - Lists
 Coin Flip Streaks
 Collecting Cat Names
 Conways Game of Life
