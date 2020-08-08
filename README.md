@@ -6,14 +6,14 @@
 - Chapter 3 - Functions
 The Collatz Sequence
 - Chapter 4 - Lists
--- Coin Flip Streaks
-Collecting Cat Names
-Conways Game of Life
+   - Coin Flip Streaks
+   -Collecting Cat Names
+   - Conways Game of Life
 - Chapter 5 – Dictionaries and Structuring Data
-  Chess Dictionary Validator
-  Fantasy Game Inventory
+    - Chess Dictionary Validator
+    - Fantasy Game Inventory
 - Chapter 6 – Manipulating Strings
-  Table Printer
+    - Table Printer
  -  Chapter 7 – Pattern Matching with Regular Expressions
   Strong Pasword Detection
   Regex Version Of Strip
