@@ -3,12 +3,16 @@
   
   My project solutions for automate the boring stuff with python by Al Sweigart
 
-  Chapter 3 - Functions
-  The Collatz Sequence
-  Chapter 4 - Lists
-  Comma Code
-  Character Picture Grid
+Chapter 2 - Flow Control
+Rock Paper Scissors Game
+Chapter 3 - Functions
+The Collatz Sequence
+Chapter 4 - Lists
+Coin Flip Streaks
+Collecting Cat Names
+Conways Game of Life
   Chapter 5 – Dictionaries and Structuring Data
+  Chess Dictionary Validator
   Fantasy Game Inventory
   Chapter 6 – Manipulating Strings
   Table Printer
