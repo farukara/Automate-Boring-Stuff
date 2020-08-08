@@ -6,7 +6,7 @@
 - Chapter 3 - Functions
 The Collatz Sequence
 - Chapter 4 - Lists
-Coin Flip Streaks
+-- Coin Flip Streaks
 Collecting Cat Names
 Conways Game of Life
 - Chapter 5 – Dictionaries and Structuring Data
