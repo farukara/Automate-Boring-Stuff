@@ -1,7 +1,7 @@
 # Autmate Boring Stuff with PYTHON
  My solutions to project problems from "Automate Boring Stuff with Python Ed2" book.
   
-- *Chapter 2 - Flow Control*
+- **Chapter 2 - Flow Control**
   - Rock Paper Scissors Game
 - Chapter 3 - Functions
 The Collatz Sequence
