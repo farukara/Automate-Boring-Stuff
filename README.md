@@ -1,6 +1,6 @@
 # Autmate Boring Stuff with PYTHON
 
-My solutions to project problems from "Automate Boring Stuff with Python Ed2" book.
+My solutions to project problems from **Automate Boring Stuff with Python Ed2** book by Al Sweigart.
 
 - **Chapter 2 - Flow Control**
   
@@ -26,6 +26,8 @@ My solutions to project problems from "Automate Boring Stuff with Python Ed2" bo
 
 - **Chapter 6 – Manipulating Strings**
   
+  - Bullet Point Adder
+  - Pig Latin
   - Table Printer
 
 - **Chapter 7 – Pattern Matching with Regular Expressions**
