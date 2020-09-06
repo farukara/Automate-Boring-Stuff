@@ -32,6 +32,14 @@ My solutions to project problems from **Automate Boring Stuff with Python Ed2** 
 
 - **Chapter 7 – Pattern Matching with Regular Expressions**
   
+  - Email finder regex
+  
+  - phone number finder regex
+  
+  - redaction of names
+  
+  - find and validate dates in a text
+  
   - Strong Pasword Detection
   
   - Regex Version Of Strip
