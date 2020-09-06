@@ -11,7 +11,6 @@ def regex_ver_strip(text, remove=''):
         mo = mo[::-1]
         mo = extras.sub('', mo)
         mo = mo[::-1]
-        print(mo)
         return mo
     else:
         spaces = re.compile(r'^(?: *)(.+)')
@@ -19,12 +18,11 @@ def regex_ver_strip(text, remove=''):
         mo = mo[0][::-1]
         mo = spaces.findall(mo)
         mo = mo[0][::-1]
-        print(mo)
         return mo
 
 
 if __name__ == '__main__':
     text = '      $ Hello World  12       '
-    regex_ver_strip(text)  # strip spaces
+    print(regex_ver_strip(text))  # strip spaces
     text = 'tt$ Hello World  12tt'
-    regex_ver_strip(text, remove='tt')  # strip tt
+    print(regex_ver_strip(text, remove='tt'))  # strip tt
